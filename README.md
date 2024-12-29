@@ -1,0 +1,1 @@
+This repository contains a TypeScript bug and its solution. The bug is a type error that occurs when passing an array of strings to a function that expects a single string as input. The solution demonstrates how to correctly type the function and handle the input to prevent the type error.
